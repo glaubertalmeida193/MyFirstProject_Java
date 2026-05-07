@@ -57,6 +57,7 @@ public class Principal {
 
         ListaDeFilmes.add(outroFilme);
         System.out.println("O primeiro filme da minha lista é: " + ListaDeFilmes.get(0).getNome());
+        System.out.println("Teste git");
 
     }
 }
